@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dorian3012@hotmail.fr
+	name = dorian fiolet
